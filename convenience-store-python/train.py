@@ -15,7 +15,7 @@ import numpy as np
 from huggingface_hub import login
 
 # Logowanie do HuggingFace (wymagane do pobrania prywatnych datasetów, jeśli takie są)
-login("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")
+login("tutaj wpisac klucz API do HuggingFace")
 
 FEATURE_COLUMNS = [
     "precpt",
